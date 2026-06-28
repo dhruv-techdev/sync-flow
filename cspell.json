@@ -1,0 +1,25 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "bullmq",
+    "mq",
+    "ioredis",
+    "syncflow",
+    "pino",
+    "Shopify",
+    "shopify",
+    "graphql",
+    "metaobject",
+    "dlq",
+    "tsx",
+    "noemit",
+    "typegen"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "build/**",
+    "pnpm-lock.yaml",
+    ".react-router/**"
+  ]
+}
